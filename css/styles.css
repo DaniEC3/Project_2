@@ -107,11 +107,9 @@ div:nth-child(2) {
 
 /********** Medium devices only **********/
 @media (min-width: 992px) and (max-width: 1199px) {
-  /* Header */
-   #chicken-tile,#beef-tile, #sushi-tile{
-/*    margin:0px;*/
+  .container {
+    widt80%
   }
-  /* End Header */
 
 /********** Small devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
